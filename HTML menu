@@ -1,0 +1,65 @@
+<html>
+<head>
+	<title>Coffee Lab</title>
+</head>
+	<body background="bg1.jpg"/>
+		<h1><center><font size="15">THE COFFEE LAB</font></center></h1>
+		<h2>MENU</h2>
+		<h3>Coffee Drinks</h3>
+			<ul>
+				<li>Espresso</li>
+				<li>Iced Coffe</li>
+				<li>Americano</li>
+				<li>Latte</li>
+				<li>Frappuccino</li>
+				<li>Mocha</li>
+				<li>Cappuccino</li>
+				<li>Macchiato</li>
+				<li>Flat White</li>
+			</ul>
+		<h3>Tea Selection</h3>
+			<ul>
+				<li>Rooibos Tea</li>
+				<li>Green Tea</li>
+				<li>Ginger Tea</li>
+				<li>Pu-erh Tea</li>
+				<li>Oolong Tea</li>
+				<li>Bobba</li>
+				<li>Ice Tea</li>
+				<li>Chai</li>
+				<li>Black Tea</li>
+			</ul>
+		<h3>Snacks</h3>
+			<ul>
+				<li>Biscotti</li>
+				<li>Coffee Cake</li>
+				<li>Croissants</li>
+				<li>Muffins</li>
+				<li>Cinnamon Rolls</li>
+				<li>Scones</li>
+				<li>Cheesecake</li>
+				<li>Choclate Chip Cookies</li>
+				<li>Puff Pastry</li>
+			</ul>
+		<h3>Seasonal Specials</h3>
+			<ul>
+				<li><h4>Spring:</h4></li>
+					<p>-Lavender-themed drinks: Lavender lattes or cold brew with lavender syrup
+							<br>
+						-Spring-inspired flavors: Lemon, strawberry, or honey-infused coffee drinks</p>
+				<li><h4>Summer:</h4></li>
+					<p>-Iced coffee specials: Nitro cold brew, iced lattes, or coffee-based smoothies
+							<br>
+						-Refreshing flavors: Citrus, mint, or cucumber-infused drinks</P>
+				<li><h4> Autumn:</h4></li>
+					<p>-Pumpkin spice lattes: A classic fall favorite
+							<br>
+						-Apple cider donuts: Pair with a warm coffee drink</p>
+				<li><h4>Winter:</h4></li>
+					<p>-Holiday-themed drinks: Peppermint mochas or gingerbread lattes
+							<br>
+						-Warm and comforting flavors: Cinnamon, nutmeg, or cardamom-infused drinks</p>
+			</ul>
+		</body>
+</html>
+	
